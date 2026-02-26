@@ -2,7 +2,7 @@
 
 Ultimate system empowering you to effortlessly create and manage a multitude of personalized vending machines whenever you desire.
 
-![](https://img.shields.io/github/downloads/uniqscripts/uniq-vending/total?logo=github)
+![Github All Releases](https://img.shields.io/github/downloads/uniqscripts/uniq-vending/total.svg?logo=github)
 
 ## 📁 Download
 [https://github.com/uniqscripts/uniq-vending/releases/latest/download/uniq-vending.zip](https://github.com/uniqscripts/uniq-vending/releases/latest/download/uniq-vending.zip)
